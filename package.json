@@ -1,0 +1,38 @@
+{
+  "name": "clc-ext-pack",
+  "displayName": "ext pack for the clc team",
+  "version": "1.0.0",
+  "publisher": "JaredClayborn",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "galleryBanner": {
+    "color": "#0072c6",
+    "theme": "dark"
+  },
+  "repository": {
+    "url": "https://github.com/jclayborn-averoinc/clc-fe-ext-pack"
+  },
+  "homepage": "https://github.com/jclayborn-averoinc/clc-ext-pack",
+  "bugs": {
+    "url": "https://github.com/jclayborn-averoinc/clc-ext-pack/issues"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionDependencies": [
+    "eamodio.gitlens",
+    "mikestead.dotenv",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "christian-kohler.path-intellisense",
+    "lostintangent.vsls-whiteboard",
+    "ms-vsliveshare.vsliveshare-audio",
+    "ms-vsliveshare.vsliveshare",
+    "ritwickdey.liveserver",
+    "nhoizey.gremlins",
+    "streetsidesoftware.code-spell-checker",
+    "aaron-bond.better-comments",
+    "atlassian.atlascode",
+    "esbenp.prettier-vscode"
+  ]
+}
