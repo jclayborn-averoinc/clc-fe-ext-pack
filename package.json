@@ -1,6 +1,6 @@
 {
-  "name": "clc-fe-ext-pack",
-  "displayName": "ext pack for the clc team",
+  "name": "sal-fe-ext-pack",
+  "displayName": "ext pack for the SAL team",
   "version": "1.0.0",
   "publisher": "JaredClayborn",
   "engines": {
