@@ -1,7 +1,7 @@
 {
   "name": "sal-fe-ext-pack",
   "displayName": "ext pack for the SAL team",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "JaredClayborn",
   "engines": {
     "vscode": "^1.60.0"
@@ -13,9 +13,9 @@
   "repository": {
     "url": "https://github.com/jclayborn-averoinc/clc-fe-ext-pack"
   },
-  "homepage": "https://github.com/jclayborn-averoinc/clc-ext-pack",
+  "homepage": "https://github.com/jclayborn-averoinc/clc-fe-ext-pack",
   "bugs": {
-    "url": "https://github.com/jclayborn-averoinc/clc-ext-pack/issues"
+    "url": "https://github.com/jclayborn-averoinc/clc-fe-ext-pack/issues"
   },
   "categories": [
     "Extension Packs"
